@@ -232,4 +232,34 @@ var quotes = [{
 }, {
   quote: "A man is rich in proportion to the number of things he can afford to let alone.",
   author: "Henry David Thoreau"
+}, {
+  quote: "Sometimes you can't see yourself clearly until you see yourself through the eyes of others.",
+  author: "Ellen DeGeneres"
+}, {
+  quote: "Success? I don't know what that word means. I'm happy. But success, that goes back to what in somebody's eyes success means. For me, success is inner peace. That's a good day for me.",
+  author: "Denzel Washington"
+}, {
+  quote: "If you're not stubborn, you'll give up on experiments too soon. And if you're not flexible, you'll pound your head against the wall and you won't see a different solution to a problem you're trying to solve",
+  author: "Jeff Bezos"
+}, {
+  quote: "You miss 100 percent of the shots you don't take.",
+  author: "Wayne Gretzky"
+}, {
+  quote: "Your time is limited, so don’t waste it living someone else’s life.",
+  author: "Steve Jobs"
+}, {
+  quote: "Happiness is not something readymade. It comes from your own actions.",
+  author: "Dalai Lama"
+}, {
+  quote: "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+  author: "Henry Ford"
+}, {
+  quote: "Don't cry because it's over, smile because it happened.",
+  author: "Dr. Seuss"
+}, {
+  quote: "No one can make you feel inferior without your consent.",
+  author: "Eleanor Roosevelt"
+}, {
+  quote: "Life is like a coin. You can spend it any way you wish, but you only spend it once.",
+  author: "Lillian Dickson"
 }]
